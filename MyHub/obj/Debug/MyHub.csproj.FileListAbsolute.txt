@@ -1,0 +1,10 @@
+C:\Users\New User\source\repos\MyHub\bin\Debug\MyHub.exe.config
+C:\Users\New User\source\repos\MyHub\bin\Debug\MyHub.exe
+C:\Users\New User\source\repos\MyHub\bin\Debug\MyHub.pdb
+C:\Users\New User\source\repos\MyHub\obj\Debug\MyHub.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\MyHub\obj\Debug\MyHub.Form1.resources
+C:\Users\New User\source\repos\MyHub\obj\Debug\MyHub.Properties.Resources.resources
+C:\Users\New User\source\repos\MyHub\obj\Debug\MyHub.csproj.GenerateResource.cache
+C:\Users\New User\source\repos\MyHub\obj\Debug\MyHub.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\MyHub\obj\Debug\MyHub.exe
+C:\Users\New User\source\repos\MyHub\obj\Debug\MyHub.pdb
